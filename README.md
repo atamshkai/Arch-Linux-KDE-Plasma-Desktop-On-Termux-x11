@@ -67,11 +67,11 @@ termux-x11 :1
 #### Then,open another session & login
 
 ```
-pacman -S konsole --noconfirm
+proot-distro login archlinux --shared-tmp
 ```
 
 ```
-proot-distro login archlinux --shared-tmp
+pacman -S konsole --noconfirm
 ```
  
 #### Then
