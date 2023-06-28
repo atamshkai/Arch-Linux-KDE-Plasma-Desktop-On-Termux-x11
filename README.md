@@ -10,9 +10,9 @@ Before you install it , disable phantom process killer.Watch from here.
 
 # To Do
 
-#### First,Download Debian Distro From Here,
+#### First,Download Archlinux Distro From Here.(some regions need vpn)
 
-[Link](https://www.mediafire.com/file/kuv961h6vyo4nu8/archlinux.tar.xz/file))
+[Link](https://www.mediafire.com/file/kuv961h6vyo4nu8/archlinux.tar.xz/file)
 
 ## Installation
 
