@@ -1,7 +1,7 @@
 # Arch-Linux-KDE-Plasma-Desktop-On-Termux-x11
 
 This is a preinstalled arch-linux distro with KDE plasma Desktop.
-Before you install it , disable phantom process killer.Watch from here.
+For Android 12 & 13,before you install it , disable phantom process killer.Watch from here.
 
 [Youtube](https://youtu.be/UxmQSETvAOc)
 
