@@ -85,3 +85,8 @@ OR
 ```
 tm-x11
 ```
+
+
+## Goal
+
+I hope you can install kde desktop on another distros easily. 
