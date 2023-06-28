@@ -30,7 +30,7 @@ tar -xvJf zsh.tar.xz && mv zsh/.* ~/ && rm -rf zsh
 chsh -s zsh
 ```
 
-Then,
+#### Then,
 
 ```
 echo "killall pulseaudio &>/dev/null" >>~/.zshrc
@@ -56,7 +56,7 @@ proot-distro restore /sdcard/download/archlinux.tar.xz
 exit
 ```
 
-Login again to terminal
+#### Login again to terminal
 
 Before login to proot,start termux-x11 first.
  
@@ -64,16 +64,20 @@ Before login to proot,start termux-x11 first.
 termux-x11 :1
 ```
  
-Then,open another session & login
+#### Then,open another session & login
  
 ```
 proot-distro login archlinux --shared-tmp
 ```
  
-Then
+#### Then
  
 ```
-export PULSE_SERVER=127.0.0.1;env DISPLAY=:1 dbus-launch --exit-with-session xfce4-session
+rm /run/dbus/pid
+dbus-daemon --system
+sleep 4
+export PULSE_SERVER=127.0.0.1
+env DISPLAY=:1 dbus-launch startplasma-x11 -dpi 120
 ```
  
 OR 
