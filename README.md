@@ -90,7 +90,12 @@ OR
 tm-x11
 ```
 
+## Termux
 
-## Goal
+[Download](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
 
-I hope you can install kde desktop on another distros easily. 
+## Termux-x11
+
+[Download](https://archive.org/download/termux-x11/app-universal-debug.apk)
+
+Archlinux,Manjaro,Debian,Kali OSs are suitable with termux-x11
