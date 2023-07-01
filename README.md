@@ -98,4 +98,4 @@ tm-x11
 
 [Download](https://archive.org/download/termux-x11/app-universal-debug.apk)
 
-Archlinux,Manjaro,Debian,Kali OSs are suitable with termux-x11
+Archlinux,Manjaro,Debian,Kali OSs are suitable with termux-x11.
