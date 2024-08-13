@@ -3,7 +3,7 @@
 This is a preinstalled arch-linux distro with KDE plasma Desktop.
 For Android 12 & 13,before you install it , disable phantom process killer.Watch from here.
 
-[Youtube](https://youtu.be/UxmQSETvAOc)
+[Here](https://github.com/atamshkai/Phantom-Process-Killer/tree/main) 
 
 ## Preview
 ![](https://raw.githubusercontent.com/atamshkai/Arch-Linux-KDE-Plasma-Desktop-On-Termux-x11/main/Archlinux%20Plasma%20Desktop.jpg)
